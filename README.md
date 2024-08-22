@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KareemHerish
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Flutter with Dart
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Team
 - 📫 How to reach me by my username
 - 😄 Pronouns: ...
